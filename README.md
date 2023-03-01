@@ -1,2 +1,3 @@
 # DSA
 DataStructures &amp; Algorithms
+A computer program is a set of instructions designed to carry out a certain activity. A computer program may need to store, retrieve, and compute data in order to accomplish the task.  A specified location that can be used to store and arrange data is called a data structure. And an algorithm is a series of steps used to solve a certain problem. We may create computer program that are effective and optimised by learning data structures and algorithms.   You can use our DSA repo to understand several types of data structures, algorithms, and their implementations in C, C++ and Python.
